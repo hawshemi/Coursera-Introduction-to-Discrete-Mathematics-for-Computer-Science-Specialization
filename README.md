@@ -1,7 +1,7 @@
 # Coursera Introduction to Discrete Mathematics for Computer Science Specialization (University of San Diego)
 
 ## [Coursera Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
-####    *Certificate:* https://www.coursera.org/account/accomplishments/specialization/3SFBBV96VD4Y
+####    *Certificate:* ...
 #
 ### 1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)
 
