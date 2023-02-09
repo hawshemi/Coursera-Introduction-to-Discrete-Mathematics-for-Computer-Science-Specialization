@@ -6,7 +6,7 @@
 #
 ### 1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)
 
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/2HQH2GUDCXAY
 #
 ### 2. [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)
 
