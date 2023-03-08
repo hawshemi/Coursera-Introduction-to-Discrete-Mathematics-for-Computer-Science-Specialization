@@ -10,15 +10,15 @@
 #
 ### 2. [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)
 
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/AT2KF4X5E3SS
 #   
 ### 3. [Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)
 
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/WAF5KEJ4P7SS
 #   
 ### 4. [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)
 
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/9VP6785YZHNR
 #
 ### 5. [Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics)
 
