@@ -2,7 +2,7 @@
 
 
 ## [Coursera Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/specialization/876HJQPNZHHM
 #
 ### 1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)
 
@@ -22,7 +22,7 @@
 #
 ### 5. [Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics)
 
-####    *Certificate:* ...
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/NLCN4RWKUWD3
 #
 
 
