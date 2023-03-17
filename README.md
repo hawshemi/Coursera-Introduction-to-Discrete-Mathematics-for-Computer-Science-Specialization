@@ -4,6 +4,7 @@
 ## [Coursera Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 ####    *Certificate:* https://www.coursera.org/account/accomplishments/specialization/876HJQPNZHHM
 #
+
 ### 1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)
 
 ####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/2HQH2GUDCXAY
